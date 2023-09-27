@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'zh-cn'
 title = 'qiusheng2011'
 theme='hugo-xmin-master'
+publishDir="qiusheng2011_resume.github.io"
 
 [[menus.main]]
 name = '我的简历'
