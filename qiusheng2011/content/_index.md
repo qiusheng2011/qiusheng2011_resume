@@ -2,7 +2,7 @@
 求职职位：**高级后台开发工程师（北京）**
   
 - 联系方式：邮箱(137812291@qq.com) 电话（17737307502）
-- github: [https://qiusheng2011.github.com](https://qiusheng2011.github.com)
+- github: [https://github.com/qiusheng2011](https://github.com/qiusheng2011)
 ## 职业技能
 
 • 精通软件过程，需求分析，软件设计，开发，运维，复盘。 • 熟练常用数据结构和算法，OOD\
