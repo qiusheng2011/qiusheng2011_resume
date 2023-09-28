@@ -3,10 +3,11 @@ languageCode = 'zh-cn'
 title = 'qiusheng2011'
 theme='hugo-xmin-master'
 publishDir="qiusheng2011_resume.github.io"
+relativeURLs=true
 
 [[menus.main]]
-name = '我的简历'
-pageRef = '/resume/'
+name = '项目'
+pageRef = '/project'
 weight = 10
 
 [module]
